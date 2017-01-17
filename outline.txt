@@ -1,0 +1,6 @@
+The purpose of this project will be to make a user management solution using rails.
+Users will have authentication
+Users will have permission levels (only some users can see certain content)
+Admins should be able to grant user permissions and reset passwords.
+
+Potentially look at login audit table. WHat device etc...
